@@ -94,7 +94,7 @@ Current arguments handled by conversion specifiers:
 
 .IT
 .B s
-- string argument. _printf handles s conversion specifier if the argument value
+- string argument. _printf handles "s" conversion specifier if the argument value
  is not a pointer to a literal string. \
 
 .IT
